@@ -9,14 +9,14 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
-  firebase_core: ">= 0.0.1 <2.0.0"
-  firebase_remote_config: ">=0.9.0-dev.0 <3.0.0"
+  firebase_core: ^2.0.0
+  firebase_remote_config: ^1.0.2
   flutter:
     sdk: flutter
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  lint: ^1.8.1
+  lint: ^1.10.0
 
 flutter:
